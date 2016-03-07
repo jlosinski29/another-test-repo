@@ -1,6 +1,10 @@
 p{
   color:#00ff00;
 }
+div{
+  padding: 100px;
+  margin: 100px;
+}
 a:link {
     color: #100000;
     text-decoration: none;
@@ -10,4 +14,8 @@ a:hover {
 }
 a:visited {
     color: #393092;
+}
+body{
+padding:0px;
+margin:0px;
 }
